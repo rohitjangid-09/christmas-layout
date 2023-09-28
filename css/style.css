@@ -597,4 +597,54 @@ ul li {
         padding: 16px 35px;
     }
 
+    .gifts-slider ul {
+        flex-direction: column;
+    }
+
+    .wishes {
+        flex-direction: column;
+    }
+
+    .wishes-right {
+        margin: 0;
+    }
+
+    .wishes-right img {
+        width: 100%;
+        height: auto;
+        padding-top: 48px;
+    }
+
+    .wishes-left h2 {
+        font-size: 33px;
+        line-height: 42px;
+    }
+
+    .fhutar {
+        flex-direction: column;
+    }
+
+    .footar-green-image {
+        right: 0;
+    }
+
+    .fhutar-centar {
+        display: block;
+    }
+
+    .fhutar-centar-right {
+        margin: 20px 0;
+    }
+    .fhutar-centar-left h2{
+        margin: 20px 0 0;
+    }
+
+    .rad-image img {
+        right: 0;
+    }
+
+    /* .fhutar-right {
+        margin: 20px 0 0;
+    } */
+
 }
